@@ -1,0 +1,9 @@
+@media  (min-width: 768px) and (max-width: 991px){
+   .no-padding{padding-left:15px;
+   padding-right:15px;}
+}
+
+@media  (min-width: 544px) and (max-width: 768px){
+   .no-padding{padding-left:15px;
+   padding-right:15px;}
+}
